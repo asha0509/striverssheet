@@ -1,5 +1,5 @@
 # Complete Study Schedule: SDE Sheet + Core Subjects
-**Timeline: Dec 30, 2025 → March 15, 2026 (76 days)**
+**Timeline: Jan 5, 2026 → March 21, 2026 (76 days)**
 
 ## 📊 Overview
 
@@ -20,15 +20,15 @@
 
 | Deadline | Achievement |
 |----------|-------------|
-| **Mid Feb (Feb 14, 2026)** | Complete all Core subjects (DBMS/OS/CN) |
-| **End Feb (Feb 28, 2026)** | 70% DSA + 80% proficiency in coding |
-| **Mid March (March 15, 2026)** | 100% SDE Sheet completion |
+| **Mid Feb (Feb 20, 2026)** | Complete all Core subjects (DBMS/OS/CN) |
+| **End Feb (Mar 5, 2026)** | 70% DSA + 80% proficiency in coding |
+| **Mid March (March 21, 2026)** | 100% SDE Sheet completion |
 
 ---
 
-## Week 1: Arrays Foundation (Dec 30, 2025 - Jan 5, 2026)
+## Week 1: Arrays Foundation (Jan 5-11, 2026)
 
-### Day 1 - Monday, Dec 30
+### Day 1 - Sunday, Jan 5
 **DSA**: Arrays Basics (2 problems)
 - [ ] Set Matrix Zeros
 - [ ] Pascal's Triangle
@@ -36,45 +36,47 @@
 **Theory**: Introduction to Core Subjects (1 hour)
 - [ ] Overview of what to study in DBMS/OS/CN
 
-### Day 2 - Tuesday, Dec 31
+### Day 2 - Monday, Jan 6
 **DSA**: Arrays (3 problems)
 - [ ] Next Permutation
 - [ ] Kadane's Algorithm
 - [ ] Sort 0s 1s 2s
 
-### Day 3 - Wednesday, Jan 1 *(New Year)*
-**DSA**: Light day (2 problems)
+### Day 3 - Tuesday, Jan 7
+**DSA**: Arrays (3 problems)
 - [ ] Merge Intervals
 - [ ] Merge Two Sorted Arrays
+- [ ] Find Duplicate Number
+
+### Day 4 - Wednesday, Jan 8
+**DSA**: Arrays (3 problems)
+- [ ] Repeat and Missing Number
+- [ ] Search in 2D Matrix
+- [ ] Pow(x, n)
+
+### Day 5 - Thursday, Jan 9
+**DSA**: Arrays Hard (2 problems)
+- [ ] Majority Element II
+- [ ] Count Inversions
 
 **Theory**: OS Basics (1.5 hours)
 - [ ] What is OS, Types of OS
 - [ ] Process vs Program vs Thread
 
-### Day 4 - Thursday, Jan 2
+### Day 6 - Friday, Jan 10
 **DSA**: Arrays (3 problems)
-- [ ] Find Duplicate Number
-- [ ] Repeat and Missing Number
-- [ ] Search in 2D Matrix
-
-### Day 5 - Friday, Jan 3
-**DSA**: Arrays Hard (2 problems)
-- [ ] Pow(x, n)
-- [ ] Majority Element II
-
-### Day 6 - Saturday, Jan 4
-**DSA**: Revision + 1 new problem
-- [ ] Review Week 1 problems
-- [ ] Count Inversions
+- [ ] Two Sum
+- [ ] 3Sum
+- [ ] 4Sum
 
 **Theory**: OS (2 hours)
 - [ ] Socket, Kernel, Monolithic Kernel
 - [ ] Virtual Memory, Thrashing, RAID
 
-### Day 7 - Sunday, Jan 5
-**DSA**: Light (2 problems)
-- [ ] Two Sum
-- [ ] 3Sum
+### Day 7 - Saturday, Jan 11
+**DSA**: Revision + 1 new problem
+- [ ] Review Week 1 problems
+- [ ] Remove Duplicates from Sorted Array
 
 **Theory**: OS (2.5 hours)
 - [ ] Scheduling Algorithms
@@ -83,488 +85,513 @@
 
 ---
 
-## Week 2: Arrays Part II & Hashing (Jan 6 - Jan 12, 2026)
+## Week 2: Arrays Part II & Hashing (Jan 12-18, 2026)
 
-### Day 8 - Monday, Jan 6
+### Day 8 - Sunday, Jan 12
 **DSA**: Two Pointers (3 problems)
-- [ ] 4Sum
-- [ ] Remove Duplicates from Sorted Array
 - [ ] Longest Consecutive Sequence
-
-### Day 9 - Tuesday, Jan 7
-**DSA**: Arrays + Hashing (3 problems)
 - [ ] Largest Subarray with K Sum
 - [ ] Count Subarrays with XOR K
-- [ ] Longest Substring Without Repeating
 
-### Day 10 - Wednesday, Jan 8
-**DSA**: Hashing (3 problems)
+**Theory**: OS Review (1 hour)
+- [ ] Quick revision of Week 1 OS topics
+
+### Day 9 - Monday, Jan 13
+**DSA**: Arrays + Hashing (3 problems)
+- [ ] Longest Substring Without Repeating
 - [ ] Subarray Sum Equals K
 - [ ] Count Distinct in Window
-- [ ] Subarray with 0 Sum
 
-### Day 11 - Thursday, Jan 9
-**DSA**: Mixed (3 problems)
+### Day 10 - Tuesday, Jan 14
+**DSA**: Hashing (3 problems)
+- [ ] Subarray with 0 Sum
 - [ ] 4Sum II
 - [ ] Longest Subarray Sum K
-- [ ] Valid Anagram
 
-### Day 12 - Friday, Jan 10
-**DSA**: String Basics (2 problems)
+### Day 11 - Wednesday, Jan 15
+**DSA**: Mixed (3 problems)
+- [ ] Valid Anagram
 - [ ] Reverse Words in String
 - [ ] Longest Palindromic Substring
 
-### Day 13 - Saturday, Jan 11
-**DSA**: Revision + 1 problem
-- [ ] Review Two Pointers & Hashing
+### Day 12 - Thursday, Jan 16
+**DSA**: String Basics (2 problems)
 - [ ] Implement strStr()
+- [ ] Reverse Linked List
 
-**Theory**: DBMS (2 hours)
+**Theory**: DBMS (1.5 hours)
 - [ ] What is DBMS, RDBMS
 - [ ] Normalization (1NF, 2NF, 3NF, BCNF)
-- [ ] ACID Properties
 
-### Day 14 - Sunday, Jan 12
-**DSA**: Light (2 problems)
-- [ ] Reverse Linked List
+### Day 13 - Friday, Jan 17
+**DSA**: Linked List Start (3 problems)
 - [ ] Middle of Linked List
+- [ ] Merge Two Sorted Lists
+- [ ] Remove Nth Node from End
+
+**Theory**: DBMS (2 hours)
+- [ ] ACID Properties
+- [ ] Keys (Primary, Foreign, Candidate, Super)
+
+### Day 14 - Saturday, Jan 18
+**DSA**: Revision + 1 problem
+- [ ] Review Two Pointers & Hashing
+- [ ] Detect Cycle
 
 **Theory**: DBMS (2.5 hours)
-- [ ] Keys (Primary, Foreign, Candidate, Super)
 - [ ] SQL Commands (DDL, DML, DCL, TCL)
 - [ ] JOINs (Inner, Left, Right, Full Outer)
+- [ ] Transactions, Serializability
 
 ---
 
-## Week 3: Linked Lists (Jan 13 - Jan 19, 2026)
+## Week 3: Linked Lists (Jan 19-25, 2026)
 
-### Day 15 - Monday, Jan 13
-**DSA**: Linked List (3 problems)
-- [ ] Merge Two Sorted Lists
-- [ ] Remove Nth Node from End
-- [ ] Detect Cycle
-
-### Day 16 - Tuesday, Jan 14
+### Day 15 - Sunday, Jan 19
 **DSA**: Linked List (3 problems)
 - [ ] Find Starting Point of Cycle
 - [ ] Intersection of Two Lists
 - [ ] Palindrome Linked List
 
-### Day 17 - Wednesday, Jan 15
+**Theory**: DBMS Review (1 hour)
+- [ ] Quick revision of DBMS concepts
+
+### Day 16 - Monday, Jan 20
 **DSA**: Linked List (3 problems)
 - [ ] Add Two Numbers
 - [ ] Delete Node in LL
 - [ ] Flatten a Linked List
 
-### Day 18 - Thursday, Jan 16
-**DSA**: LL Medium (3 problems)
+### Day 17 - Tuesday, Jan 21
+**DSA**: Linked List (3 problems)
 - [ ] Rotate List
 - [ ] Reverse in K-Groups
 - [ ] Copy List with Random Pointer
 
-### Day 19 - Friday, Jan 17
-**DSA**: LL Hard (2 problems)
+### Day 18 - Wednesday, Jan 22
+**DSA**: LL Medium (3 problems)
 - [ ] Sort List
 - [ ] Merge K Sorted Lists
-
-### Day 20 - Saturday, Jan 18
-**DSA**: Revision + 1 problem
-- [ ] Review all LL problems
 - [ ] LRU Cache
 
-**Theory**: DBMS (2 hours)
-- [ ] Transactions, Serializability
-- [ ] Indexing (B-Tree, B+ Tree)
-- [ ] TRUNCATE vs DELETE
-
-### Day 21 - Sunday, Jan 19
+### Day 19 - Thursday, Jan 23
 **DSA**: Greedy Start (2 problems)
 - [ ] N Meetings in One Room
 - [ ] Minimum Platforms
 
-**Theory**: CN Basics (2.5 hours)
+**Theory**: CN Basics (1.5 hours)
 - [ ] OSI vs TCP/IP Model
 - [ ] HTTP vs HTTPS
-- [ ] TCP vs UDP
 
----
-
-## Week 4: Greedy & Recursion Start (Jan 20 - Jan 26, 2026)
-
-### Day 22 - Monday, Jan 20
+### Day 20 - Friday, Jan 24
 **DSA**: Greedy (3 problems)
 - [ ] Job Sequencing
 - [ ] Fractional Knapsack
 - [ ] Jump Game
 
-### Day 23 - Tuesday, Jan 21
-**DSA**: Greedy (3 problems)
-- [ ] Jump Game II
-- [ ] Minimum Arrows to Burst Balloons
-- [ ] Non-overlapping Intervals
-
-### Day 24 - Wednesday, Jan 22
-**DSA**: Greedy (3 problems)
-- [ ] Candy Distribution
-- [ ] Valid Parenthesis String
-- [ ] Insert Interval
-
-### Day 25 - Thursday, Jan 23
-**DSA**: Recursion Basics (3 problems)
-- [ ] Print all Subsequences
-- [ ] Subset Sum I
-- [ ] Combination Sum I
-
-### Day 26 - Friday, Jan 24
-**DSA**: Recursion (3 problems)
-- [ ] Combination Sum II
-- [ ] Subset Sum II
-- [ ] Permutations
-
-### Day 27 - Saturday, Jan 25
-**DSA**: Revision + 1 problem
-- [ ] Review Greedy & Recursion
-- [ ] Generate Parentheses
-
 **Theory**: CN (2 hours)
+- [ ] TCP vs UDP
 - [ ] IP Addressing (IPv4, IPv6, Subnetting)
+
+### Day 21 - Saturday, Jan 25
+**DSA**: Revision + 1 problem
+- [ ] Review all LL problems
+- [ ] Jump Game II
+
+**Theory**: CN (2.5 hours)
 - [ ] ARP, RARP, DHCP, DNS
 - [ ] Routing Algorithms
+- [ ] Congestion Control
 
-### Day 28 - Sunday, Jan 26
+---
+
+## Week 4: Greedy & Recursion Start (Jan 26 - Feb 1, 2026)
+
+### Day 22 - Sunday, Jan 26
+**DSA**: Greedy (3 problems)
+- [ ] Minimum Arrows to Burst Balloons
+- [ ] Non-overlapping Intervals
+- [ ] Candy Distribution
+
+**Theory**: CN Review (1 hour)
+- [ ] Quick revision of CN concepts
+
+### Day 23 - Monday, Jan 27
+**DSA**: Greedy (3 problems)
+- [ ] Valid Parenthesis String
+- [ ] Insert Interval
+- [ ] Print all Subsequences
+
+### Day 24 - Tuesday, Jan 28
+**DSA**: Recursion Basics (3 problems)
+- [ ] Subset Sum I
+- [ ] Combination Sum I
+- [ ] Combination Sum II
+
+### Day 25 - Wednesday, Jan 29
+**DSA**: Recursion (3 problems)
+- [ ] Subset Sum II
+- [ ] Permutations
+- [ ] Generate Parentheses
+
+### Day 26 - Thursday, Jan 30
 **DSA**: Backtracking (2 problems)
 - [ ] N-Queens
 - [ ] Sudoku Solver
 
-**Theory**: CN (2.5 hours)
-- [ ] Congestion Control
+**Theory**: CN Final Topics (1.5 hours)
 - [ ] Flow Control
 - [ ] Error Detection & Correction
-- [ ] Network Security Basics
 
----
-
-## Week 5: Backtracking & Binary Search (Jan 27 - Feb 2, 2026)
-
-### Day 29 - Monday, Jan 27
+### Day 27 - Friday, Jan 31
 **DSA**: Backtracking (3 problems)
 - [ ] Rat in Maze
 - [ ] Word Search
 - [ ] M-Coloring Problem
 
-### Day 30 - Tuesday, Jan 28
-**DSA**: Backtracking (3 problems)
+**Theory**: CN (2 hours)
+- [ ] Network Security Basics
+- [ ] Complete CN revision
+
+### Day 28 - Saturday, Feb 1
+**DSA**: Revision + 1 problem
+- [ ] Review Greedy & Recursion
 - [ ] Palindrome Partitioning
+
+**Theory**: All Subjects Revision (2.5 hours)
+- [ ] Mock test on OS topics
+- [ ] Review weak areas
+
+---
+
+## Week 5: Backtracking & Binary Search (Feb 2-8, 2026)
+
+### Day 29 - Sunday, Feb 2
+**DSA**: Backtracking (3 problems)
 - [ ] Word Break II
 - [ ] Letter Combinations
-
-### Day 31 - Wednesday, Jan 29
-**DSA**: Binary Search Basics (3 problems)
 - [ ] Binary Search
+
+**Theory**: DBMS Revision (2 hours)
+- [ ] Indexing (B-Tree, B+ Tree)
+- [ ] TRUNCATE vs DELETE
+- [ ] Mock test
+
+### Day 30 - Monday, Feb 3
+**DSA**: Binary Search Basics (3 problems)
 - [ ] Search in Rotated Sorted Array I
 - [ ] Search in Rotated Sorted Array II
-
-### Day 32 - Thursday, Jan 30
-**DSA**: Binary Search (3 problems)
 - [ ] Find Minimum in Rotated Array
+
+### Day 31 - Tuesday, Feb 4
+**DSA**: Binary Search (3 problems)
 - [ ] Koko Eating Bananas
 - [ ] Minimum Days to Make Bouquets
-
-### Day 33 - Friday, Jan 31
-**DSA**: Binary Search (3 problems)
 - [ ] Find Smallest Divisor
+
+### Day 32 - Wednesday, Feb 5
+**DSA**: Binary Search (3 problems)
 - [ ] Capacity to Ship Packages
 - [ ] Aggressive Cows
-
-### Day 34 - Saturday, Feb 1
-**DSA**: Revision + 1 problem
-- [ ] Review Binary Search patterns
 - [ ] Book Allocation
 
-**Theory**: Complete remaining CN/OS/DBMS questions (2 hours)
-- [ ] Review weak topics
-
-### Day 35 - Sunday, Feb 2
+### Day 33 - Thursday, Feb 6
 **DSA**: Binary Search Hard (2 problems)
 - [ ] Median of Two Sorted Arrays
 - [ ] Kth Element of Two Sorted
 
-**Theory**: FINAL REVISION (3 hours)
-- [ ] Revise all OS concepts
-- [ ] Mock theory test
+**Theory**: OS Final Revision (1.5 hours)
+- [ ] Complete OS mock test
+- [ ] Review all weak topics
 
----
-
-## Week 6: Trees & Heaps (Feb 3 - Feb 9, 2026)
-
-### Day 36 - Monday, Feb 3
+### Day 34 - Friday, Feb 7
 **DSA**: Tree Basics (3 problems)
 - [ ] Inorder Traversal
 - [ ] Preorder Traversal
 - [ ] Postorder Traversal
 
-### Day 37 - Tuesday, Feb 4
-**DSA**: Tree Traversals (3 problems)
+**Theory**: DBMS Final Revision (2 hours)
+- [ ] Complete DBMS mock test
+- [ ] Final review
+
+### Day 35 - Saturday, Feb 8
+**DSA**: Revision + 1 problem
+- [ ] Review Binary Search patterns
 - [ ] Level Order Traversal
+
+**Theory**: CN Final Revision (2.5 hours)
+- [ ] Complete CN mock test
+- [ ] Final review of all topics
+
+---
+
+## Week 6: Trees & Heaps (Feb 9-15, 2026)
+
+### Day 36 - Sunday, Feb 9
+**DSA**: Tree Traversals (3 problems)
 - [ ] Zigzag Traversal
 - [ ] Vertical Order Traversal
-
-### Day 38 - Wednesday, Feb 5
-**DSA**: Tree Properties (3 problems)
 - [ ] Height of Tree
+
+**Theory**: All Subjects Final Mock (2 hours)
+- [ ] Comprehensive mock test
+- [ ] Identify last weak areas
+
+### Day 37 - Monday, Feb 10
+**DSA**: Tree Properties (3 problems)
 - [ ] Diameter of Tree
 - [ ] Balanced Binary Tree
-
-### Day 39 - Thursday, Feb 6
-**DSA**: Tree Views (3 problems)
 - [ ] Left View
+
+### Day 38 - Tuesday, Feb 11
+**DSA**: Tree Views (3 problems)
 - [ ] Right View
 - [ ] Top View
-
-### Day 40 - Friday, Feb 7
-**DSA**: Tree Medium (3 problems)
 - [ ] Bottom View
+
+### Day 39 - Wednesday, Feb 12
+**DSA**: Tree Medium (3 problems)
 - [ ] Boundary Traversal
 - [ ] Lowest Common Ancestor
-
-### Day 41 - Saturday, Feb 8
-**DSA**: Revision + 1 problem
-- [ ] Review all Tree problems
 - [ ] Serialize and Deserialize Tree
 
-**Theory**: FINAL REVISION (3 hours)
-- [ ] Complete DBMS revision
-- [ ] Mock theory test
-
-### Day 42 - Sunday, Feb 9
-**DSA**: BST Basics (2 problems)
+### Day 40 - Thursday, Feb 13
+**DSA**: BST Basics (3 problems)
 - [ ] Search in BST
 - [ ] Insert into BST
-
-**Theory**: COMPLETE REVISION (3 hours)
-- [ ] All CN topics
-- [ ] **FINAL MOCK TEST for Core Subjects**
-
----
-
-## Week 7: BST & Heaps (Feb 10 - Feb 16, 2026)
-
-### Day 43 - Monday, Feb 10
-**DSA**: BST (3 problems)
 - [ ] Delete Node in BST
+
+### Day 41 - Friday, Feb 14
+**DSA**: BST (3 problems)
 - [ ] Validate BST
 - [ ] Kth Smallest in BST
-
-### Day 44 - Tuesday, Feb 11
-**DSA**: BST (3 problems)
 - [ ] Kth Largest in BST
+
+### Day 42 - Saturday, Feb 15
+**DSA**: Revision + 1 problem
+- [ ] Review all Tree problems
 - [ ] LCA in BST
-- [ ] Inorder Successor
 
-### Day 45 - Wednesday, Feb 12
-**DSA**: BST (3 problems)
-- [ ] Two Sum in BST
-- [ ] Construct BST from Preorder
-- [ ] Recover BST
-
-### Day 46 - Thursday, Feb 13
-**DSA**: Heaps (3 problems)
-- [ ] Kth Largest Element
-- [ ] Kth Smallest Element
-- [ ] Top K Frequent Elements
-
-### Day 47 - Friday, Feb 14 🎯 **CORE SUBJECTS DEADLINE**
-**DSA**: Heaps (3 problems)
-- [ ] Merge K Sorted Lists
-- [ ] Find Median from Stream
-- [ ] Sort K Sorted Array
-
-**Theory**: Final touches on weak areas (1 hour)
-- [ ] Review any remaining weak topics
-
-### Day 48 - Saturday, Feb 15
-**DSA**: Revision + Stack/Queue Start (2 problems)
-- [ ] Review BST & Heaps
-- [ ] Implement Stack using Array
-
-### Day 49 - Sunday, Feb 16
-**DSA**: Stack & Queue (3 problems)
-- [ ] Implement Queue using Stack
-- [ ] Valid Parentheses
-- [ ] Next Greater Element
+**Theory**: Buffer for any remaining topics (1 hour)
+- [ ] Final touches on weak areas
 
 ---
 
-## Week 8: Stack & Queue (Feb 17 - Feb 23, 2026)
+## Week 7: BST & Heaps (Feb 16-22, 2026)
 
-### Day 50 - Monday, Feb 17
-**DSA**: Stack (3 problems)
+### Day 43 - Sunday, Feb 16
+**DSA**: BST (3 problems)
+- [ ] Inorder Successor
+- [ ] Two Sum in BST
+- [ ] Construct BST from Preorder
+
+### Day 44 - Monday, Feb 17
+**DSA**: BST (3 problems)
+- [ ] Recover BST
+- [ ] Kth Largest Element (Heap)
+- [ ] Kth Smallest Element (Heap)
+
+### Day 45 - Tuesday, Feb 18
+**DSA**: Heaps (3 problems)
+- [ ] Top K Frequent Elements
+- [ ] Merge K Sorted Lists (Heap approach)
+- [ ] Find Median from Stream
+
+### Day 46 - Wednesday, Feb 19
+**DSA**: Heaps (3 problems)
+- [ ] Sort K Sorted Array
+- [ ] Implement Stack using Array
+- [ ] Implement Queue using Stack
+
+### Day 47 - Thursday, Feb 20 🎯 **CORE SUBJECTS DEADLINE**
+**DSA**: Stack & Queue (3 problems)
+- [ ] Valid Parentheses
+- [ ] Next Greater Element
 - [ ] Next Smaller Element
+
+**Theory**: Final review of any remaining weak topics (1 hour)
+
+### Day 48 - Friday, Feb 21
+**DSA**: Stack (3 problems)
 - [ ] Largest Rectangle in Histogram
 - [ ] Trapping Rain Water
-
-### Day 51 - Tuesday, Feb 18
-**DSA**: Stack (3 problems)
 - [ ] Implement Min Stack
-- [ ] LRU Cache (if not done)
+
+### Day 49 - Saturday, Feb 22
+**DSA**: Revision + 1 problem
+- [ ] Review BST & Heaps
 - [ ] LFU Cache
 
-### Day 52 - Wednesday, Feb 19
+---
+
+## Week 8: Stack & Queue (Feb 23 - Mar 1, 2026)
+
+### Day 50 - Sunday, Feb 23
 **DSA**: Queue (3 problems)
 - [ ] Sliding Window Maximum
-- [ ] Rotten Oranges (if not done)
+- [ ] Rotten Oranges
 - [ ] Stock Span Problem
 
-### Day 53 - Thursday, Feb 20
+### Day 51 - Monday, Feb 24
 **DSA**: Stack/Queue Mixed (3 problems)
 - [ ] Celebrity Problem
 - [ ] Online Stock Span
 - [ ] Max of Min for Every Window
 
-### Day 54 - Friday, Feb 21
+### Day 52 - Tuesday, Feb 25
 **DSA**: Advanced (3 problems)
 - [ ] Largest Rectangle with All 1s
 - [ ] Maximal Rectangle
 - [ ] Sliding Window Median
 
-### Day 55 - Saturday, Feb 22
-**DSA**: Revision (3 problems)
-- [ ] Review Stack/Queue
-- [ ] Solve any pending problems
-
-### Day 56 - Sunday, Feb 23
+### Day 53 - Wednesday, Feb 26
 **DSA**: Graph Basics (3 problems)
 - [ ] BFS Traversal
 - [ ] DFS Traversal
 - [ ] Number of Islands
 
----
-
-## Week 9: Graphs Begins (Feb 24 - March 2, 2026)
-
-### Day 57 - Monday, Feb 24
+### Day 54 - Thursday, Feb 27
 **DSA**: Graphs (3 problems)
 - [ ] Number of Provinces
 - [ ] Flood Fill
 - [ ] Detect Cycle in Undirected (BFS)
 
-### Day 58 - Tuesday, Feb 25
+### Day 55 - Friday, Feb 28
 **DSA**: Graphs (3 problems)
 - [ ] Detect Cycle Undirected (DFS)
 - [ ] Detect Cycle Directed
 - [ ] Bipartite Graph (BFS)
 
-### Day 59 - Wednesday, Feb 26
-**DSA**: Graphs (3 problems)
+### Day 56 - Saturday, Mar 1
+**DSA**: Revision (3 problems)
+- [ ] Review Stack/Queue
 - [ ] Bipartite Graph (DFS)
+
+---
+
+## Week 9: Graphs Intensive (Mar 2-8, 2026)
+
+### Day 57 - Sunday, Mar 2
+**DSA**: Graphs (3 problems)
 - [ ] Clone Graph
 - [ ] Surrounded Regions
-
-### Day 60 - Thursday, Feb 27
-**DSA**: Topological Sort (3 problems)
 - [ ] Topological Sort (DFS)
+
+### Day 58 - Monday, Mar 3
+**DSA**: Topological Sort (3 problems)
 - [ ] Topological Sort (Kahn's)
 - [ ] Course Schedule I
-
-### Day 61 - Friday, Feb 28
-**DSA**: Graphs (3 problems)
 - [ ] Course Schedule II
+
+### Day 59 - Tuesday, Mar 4
+**DSA**: Graphs (3 problems)
 - [ ] Find Eventual Safe States
 - [ ] Alien Dictionary
-
-### Day 62 - Saturday, March 1
-**DSA**: Revision + New (2 problems)
-- [ ] Review Graph fundamentals
 - [ ] Shortest Path in Binary Matrix
 
-### Day 63 - Sunday, March 2
+### Day 60 - Wednesday, Mar 5 🎯 **70% DSA MILESTONE**
 **DSA**: Shortest Path (3 problems)
 - [ ] Dijkstra's Algorithm
 - [ ] Bellman-Ford
 - [ ] Floyd-Warshall
 
----
-
-## Week 10: Graphs Advanced (March 3 - March 9, 2026)
-
-### Day 64 - Monday, March 3
+### Day 61 - Thursday, Mar 6
 **DSA**: MST (3 problems)
 - [ ] Prim's Algorithm
 - [ ] Kruskal's Algorithm
 - [ ] Number of Operations to Make Connected
 
-### Day 65 - Tuesday, March 4
+### Day 62 - Friday, Mar 7
 **DSA**: Advanced Graphs (3 problems)
 - [ ] Bridges in Graph
 - [ ] Articulation Points
 - [ ] Strongly Connected Components
 
-### Day 66 - Wednesday, March 5
-**DSA**: Graph Problems (3 problems)
+### Day 63 - Saturday, Mar 8
+**DSA**: Revision + New (3 problems)
+- [ ] Review Graph fundamentals
 - [ ] Word Ladder I
-- [ ] Word Ladder II
-- [ ] Minimum Multiplications to Reach End
-
-### Day 67 - Thursday, March 6
-**DSA**: DP Introduction (3 problems)
-- [ ] Climbing Stairs
-- [ ] House Robber
-- [ ] Coin Change
-
-### Day 68 - Friday, March 7
-**DSA**: DP (3 problems)
-- [ ] Longest Increasing Subsequence
-- [ ] Maximum Product Subarray
-- [ ] Partition Equal Subset Sum
-
-### Day 69 - Saturday, March 8
-**DSA**: Revision (3 problems)
-- [ ] Review Graphs & DP intro
-- [ ] Solve weak topics
-
-### Day 70 - Sunday, March 9
-**DSA**: DP (3 problems)
-- [ ] Longest Common Subsequence
-- [ ] Edit Distance
-- [ ] Wildcard Matching
 
 ---
 
-## Week 11: DP & Trie - Final Sprint (March 10 - March 15, 2026)
+## Week 10: Graphs Advanced & DP Start (Mar 9-15, 2026)
 
-### Day 71 - Monday, March 10
+### Day 64 - Sunday, Mar 9
+**DSA**: Graph Problems (3 problems)
+- [ ] Word Ladder II
+- [ ] Minimum Multiplications to Reach End
+- [ ] Climbing Stairs
+
+### Day 65 - Monday, Mar 10
+**DSA**: DP Introduction (3 problems)
+- [ ] House Robber
+- [ ] Coin Change
+- [ ] Longest Increasing Subsequence
+
+### Day 66 - Tuesday, Mar 11
 **DSA**: DP (3 problems)
+- [ ] Maximum Product Subarray
+- [ ] Partition Equal Subset Sum
+- [ ] Longest Common Subsequence
+
+### Day 67 - Wednesday, Mar 12
+**DSA**: DP (3 problems)
+- [ ] Edit Distance
+- [ ] Wildcard Matching
 - [ ] Unique Paths
+
+### Day 68 - Thursday, Mar 13
+**DSA**: DP (3 problems)
 - [ ] Minimum Path Sum
 - [ ] Maximum Sum Path
-
-### Day 72 - Tuesday, March 11
-**DSA**: DP Hard (3 problems)
 - [ ] Matrix Chain Multiplication
+
+### Day 69 - Friday, Mar 14
+**DSA**: DP Hard (3 problems)
 - [ ] Palindrome Partitioning II
 - [ ] Egg Dropping Problem
-
-### Day 73 - Wednesday, March 12
-**DSA**: Trie (3 problems)
 - [ ] Implement Trie
-- [ ] Insert and Search in Trie
-- [ ] Word Search II
 
-### Day 74 - Thursday, March 13
-**DSA**: Trie + Miscellaneous (3 problems)
+### Day 70 - Saturday, Mar 15
+**DSA**: Revision (3 problems)
+- [ ] Review Graphs & DP intro
+- [ ] Insert and Search in Trie
+
+---
+
+## Week 11: DP & Trie - Final Sprint (Mar 16-21, 2026)
+
+### Day 71 - Sunday, Mar 16
+**DSA**: Trie (3 problems)
+- [ ] Word Search II
 - [ ] Maximum XOR of Two Numbers
 - [ ] Complete String
-- [ ] Count Distinct Substrings
 
-### Day 75 - Friday, March 14
-**DSA**: Final Problems (3 problems)
+### Day 72 - Monday, Mar 17
+**DSA**: Trie + Miscellaneous (3 problems)
+- [ ] Count Distinct Substrings
 - [ ] Solve any remaining problems
 - [ ] Focus on weak topics
 
-### Day 76 - Saturday, March 15 🎉 **COMPLETION DAY**
-**DSA**: Buffer day
+### Day 73 - Tuesday, Mar 18
+**DSA**: Final Problems (3 problems)
+- [ ] Solve remaining hard problems
+- [ ] Review most challenging topics
+
+### Day 74 - Wednesday, Mar 19
+**DSA**: Buffer + Revision (3 problems)
+- [ ] Complete any pending problems
+- [ ] Start comprehensive revision
+
+### Day 75 - Thursday, Mar 20
+**DSA**: Final Review (3 problems)
 - [ ] Solve last remaining problems
-- [ ] Complete final revision
+- [ ] Mock interview practice
+
+### Day 76 - Friday, Mar 21 🎉 **COMPLETION DAY**
+**DSA**: Buffer day
+- [ ] Final revision of all topics
+- [ ] Review patterns and approaches
 - [ ] **CELEBRATE! YOU DID IT!** 🚀
 
 ---
@@ -588,18 +615,18 @@
 
 ## 🎯 Proficiency Milestones
 
-### By Mid-Feb (Feb 14, 2026)
+### By Mid-Feb (Feb 20, 2026)
 - [ ] All Core Subjects completed
 - [ ] ~100 DSA problems solved
 - [ ] Strong foundation in Arrays, LL, Recursion, Binary Search
 - [ ] Started Trees & Heaps
 
-### By End-Feb (Feb 28, 2026)
+### By Early March (Mar 5, 2026)
 - [ ] 70% SDE Sheet (~134 problems)
 - [ ] 80% coding proficiency
 - [ ] Completed: Arrays, LL, Greedy, Recursion, Binary Search, Trees, BST, Heaps, Stack/Queue
 
-### By Mid-March (March 15, 2026)
+### By Mid-March (March 21, 2026)
 - [ ] 100% SDE Sheet (191 problems)
 - [ ] Strong in all DSA topics
 - [ ] Ready for interviews
